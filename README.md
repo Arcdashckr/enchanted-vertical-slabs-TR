@@ -25,7 +25,7 @@ Huge thanks to the following people for translating Enchanted Vertical Slabs!
 - ChristosMaragkos (github) [el_gr]
 - CANALETA (github) [es_mx]
 - PlayboyX312 (github) [ru_ru]
-- hhhhh-ckr (github) [tr_tr]
+- Arcdashckr (github) [tr_tr]
 - VladAndreiMorariu (github) [it_it]
 - ivan.hd (discord) [pt_br]
 - unroman (github) [uk_ua]
